@@ -1,6 +1,6 @@
 *Contributers: Renuka Sahani and Suraj Desai*
 
-# Tom and Jerry
+# Tom & Jerry and the Big Bang
 
 > Setup for a project/competition amongst students to train a winning Reinforcement Learning agent for the classic game Bomberman.
 
@@ -32,4 +32,4 @@ python -m main play --agents Spike
 
 To run a demo of our agent **Tom** download the repository and run ``python main.py play --agents Tom rule_based_agent rule_based_agent rule_based_agent``.
 
-Our Github Repository Link: https://github.com/Renuka-Sahani/Machine-Learning-Project.git
+Our Github Repository Link: https://github.com/Renuka-Sahani/Tom---Jerry-and-the-Big-Bang.git
